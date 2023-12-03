@@ -4,7 +4,9 @@ I will provide solutions for python, golang, and bash ! As I am using [vim](http
 I might not do every challenges, but I found it a great opportunity to learn more golang, improve my python, and have fun with some bash :D  
 If you found this repository usefull for you, feel free to give a ⭐ !
 
-# Version
+# Versions
 <div>
-  <img alt="Static Badge" src="[https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/python-3.10.12-green)https://img.shields.io/badge/python-3.10.12-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/🐍_python-3.10.12-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/🐹_go-1.21.4-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/🐚_bash-5.1.16-black">
 </div>
